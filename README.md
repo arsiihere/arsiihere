@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arslan Ahmed Arif</h1>
 <h3 align="center">Passionated Fullstack Developer</h3>
-<video poster="https://i.gifer.com/fetch/w300-preview/ae/aeecbe84580290c565fd437cb273e167.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/g2dh.mp4" type="video/mp4"></video>
+<img src="https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work.png" align="center" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsiihere&label=Profile%20views&color=0e75b6&style=flat" alt="arsiihere" /> </p>
 
