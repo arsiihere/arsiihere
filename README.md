@@ -2,7 +2,7 @@
 <h3 align="center">Passionated Fullstack Developer</h3>
 <img src="https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work.png" align="center" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsiihere&label=Profile%20views&color=0e75b6&style=flat" alt="arsiihere" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsiihere&label=Profile%20views&color=0e75b6&style=flat" alt="arsiihere" height="50%" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsiihere" alt="arsiihere" /></a> </p>
 
