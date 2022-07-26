@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arslan Ahmed Arif</h1>
 <h3 align="center">Passionated Fullstack Developer</h3>
-<img src="https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work.png" align="center" width="400" />
+<img src="https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work.png" align="center" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsiihere&label=Profile%20views&color=0e75b6&style=flat" alt="arsiihere" /> </p>
 
